@@ -1,0 +1,128 @@
+---
+layout: default
+title: About Jens Kleinjung
+---
+<div class="blurb">
+	<h1>Jens Kleinjung</h1>
+	<p>Latex. <a href="/about">More to come...</a></p>
+
+== Labels and Counters ==
+* Rename figure or table label number; this would change for example 'Figure 1' to 'Figure S1' and 'Table 1' to 'Table S1'
+  \renewcommand{\thefigure}{S\arabic{figure}}
+  \renewcommand{\thetable}{S\arabic{table}}
+* To change the figure label itself, use \renewcommand{\figurename}{MyFigureName}. This should work for the following names:
+  \abstractname
+  \alsoname
+  \appendixname
+  \bibname
+  \ccname
+  \chaptername
+  \contentsname
+  \enclname
+  \figurename
+  \headtoname
+  \indexname
+  \listfigurename
+  \listtablename
+  \pagename
+  \partname
+  \refname
+  \seename
+  \tablename
+* Set counter to new value, here to '0' so that the next figure is 'Figure 1'
+  \setcounter{figure}{0}
+
+== Page format ==
+* Package 'vmargin'. Set the margins and head/foot distances.
+The dimensions of A4 are: 210mm x 297mm, 595.28pts x 841.89pts.
+The order of parameters is \setmarginsrb{leftmargin}{topmargin}{rightmargin}{bottommargin}{headerheight}{headerdist}{footheight}{footdist}.
+  \setmarginsrb{25mm}{20mm}{25mm}{20mm}{0mm}{0mm}{0mm}{10mm}
+
+* Page with page numbers only (not head/foot)
+  \pagestyle{plain}
+
+== Title page ==
+* No date on title page
+  \date{}
+
+== Text format ==
+* Package 'setspace'. Set line spacing
+  \singlespacing
+  \onehalfspacing
+  \doublespacing
+
+* Package 'times'. Tex font is set to times.
+
+== Text size ==
+  \tiny
+  \scriptsize
+  \footnotesize
+  \small
+  \normalsize
+  \large
+  \Large
+  \LARGE
+  \huge
+  \Huge 
+
+== Lists ==
+* Package 'paralist'. Generate an item list ((i),(ii),...) without line breaks. Change the label (i) to something else if required.
+  \begin{inparaenum}[\itshape (i)]
+  \item Something here
+  \item and something else
+  \item and even more. 
+  \end{inparaenum}
+
+== Figures ==
+* to use EPS figures (with dvips)
+  \usepackage{graphicx}
+
+* to use PDF, PNG, JPEG figures
+  \usepackage[pdftex]{graphicx}
+
+* Package 'subfigure'. Create composite figures.
+  \begin{figure}[ht]
+  \label{fig:report1}
+  \subfigure[Aliphatic]{\includegraphics[scale=.4]{fig/fig1.eps}} \qquad
+  \subfigure[Aromatic]{\includegraphics[scale=.4]{fig/fig2.eps}} \qquad
+  \subfigure[Charged]{\includegraphics[scale=.4]{fig/fig3.eps}} \qquad
+  \subfigure[Polar]{\includegraphics[scale=.4]{fig/fig4.eps}}
+  \caption{Report 1}
+  \end{figure}
+
+== Tables ==
+* Package 'rotating'.
+  \begin{sidewaystable}[H]
+  \end{sidewaystable}
+
+* Package 'supertabular'. Tables continue over more than one page.
+
+== Code ==
+* Package 'listings'.
+  \lstset{language=C}
+  \begin{lstlisting}
+  \end{lstlisting}
+
+== Formulae ==
+* Mathematical symbols.
+  \usepackage{amsmath, amsthm, amssymb, amscd}
+
+== Bibliography ==
+=== Style ===
+* For author-date citation style use 'natbib'.
+
+* To create a specific format of the bibliographic entries, download the 'makebst' package and run
+  latex makebst
+This starts a question/answer session about the desired format and creates a *.bst file that works with the natbib (or other) style.
+
+=== Modified bibliography ===
+* Package 'bibunits. Several bibliographies per document.
+
+=== Rename bibliography section ===
+* for books and report
+  \renewcommand\bibname{New name}
+* for article
+  \renewcommand\refname{New name}
+
+</div><!-- /.blurb -->
+
