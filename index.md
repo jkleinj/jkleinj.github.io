@@ -2,8 +2,6 @@
 layout: default
 title: Jens Kleinjung 
 ---
-<div class="blurb">
-   <p>Jens Kleinjung's Scientific Material</p>
-</div>
+#Jens Kleinjung's Scientific Material
 
 ## My text with **markdown** syntax
