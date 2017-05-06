@@ -2,6 +2,7 @@
 layout: default
 title: Jens Kleinjung 
 ---
-#Jens Kleinjung's Scientific Material
+
+# Jens Kleinjung's Scientific Material
 
 ## My text with **markdown** syntax
