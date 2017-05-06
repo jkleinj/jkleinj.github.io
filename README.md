@@ -1,2 +1,3 @@
 # jkleinj.github.io
-public web page of https://github.com/jkleinj
+
+Front end of [github.com/jkleinj](https://github.com/jkleinj).
