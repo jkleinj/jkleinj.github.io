@@ -16,6 +16,7 @@ title: Jens Kleinjung
 
 ### GSAtools : Detection of allosteric signal transmission in Molecular Simulations 
 * [GSAtools](https://github.com/jkleinj/GSAtools)
+* [Structural ALphabet](https://github.com/jkleinj/M32K25)
 
 ## Talks and Lectures
 * [Bioinformatics Lectures](https://github.com/jkleinj/Bioinformatics_lectures)
