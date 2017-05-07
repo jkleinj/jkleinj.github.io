@@ -20,3 +20,8 @@ title: Jens Kleinjung
 
 ## Talks and Lectures
 * [Bioinformatics Lectures](https://github.com/jkleinj/Bioinformatics_lectures)
+* [Latex poster about Force Matching](https://github.com/jkleinj/Latex_poster)
+
+## Molecular Models and Data
+* [Actin filament models](https://github.com/jkleinj/AFMmodels)
+* [Antibody antigen complex structure](http://www.rcsb.org/pdb/explore/explore.do?structureId=1f3r)
