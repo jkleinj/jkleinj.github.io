@@ -15,7 +15,7 @@ title: Jens Kleinjung
 * [POPSCOMP Server](https://mathbio.crick.ac.uk/wiki/POPSCOMP)
 
 ### GSAtools : Detection of allosteric signal transmission in Molecular Simulations 
-* https://github.com/jkleinj/GSAtools
+* [GSAtools](https://github.com/jkleinj/GSAtools)
 
 ## Talks and Lectures
 * [Bioinformatics Lectures](https://github.com/jkleinj/Bioinformatics_lectures)
