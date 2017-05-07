@@ -3,7 +3,7 @@ layout: default
 title: Jens Kleinjung 
 ---
 
-# Jens Kleinjung's Overview of Scientific Material
+# Jens Kleinjung's Collection of Scientific Material
 
 ## Programs and Servers
 ### POPS : Analysis of solvent-accessible surface area (SASA) in biomolecular complexes
