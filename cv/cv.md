@@ -10,6 +10,7 @@ jens.kleinjung@crick.ac.uk
 # Scientific Expertise
 * protein sequence and structure analysis
 * transcriptomics data analysis
+* discrete state models
 * molecular simulations
 * allostery
 * molecular interaction networks
