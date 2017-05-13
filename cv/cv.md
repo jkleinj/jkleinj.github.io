@@ -38,13 +38,13 @@ jens.kleinjung@crick.ac.uk
 
 # Awards & Grants
 * 2010/2012
-: EMBO long-term fellowship (ALTF 651-2009) to host J. Baussand
+: EMBO long-term fellowship (ALTF 651-2009) to host Dr. J. Baussand
 * 2008/2009
-: European Science Foundation grant of the programme "Frontiers in Functional Genomics" to host J. Baussand
+: European Science Foundation grant of the programme "Frontiers in Functional Genomics" to host Dr. J. Baussand
 * 2008-2010
-: EU project ProtFlexPred (Proposal N° 220256) of the programme "Marie-Curie Intra-European Fellowships for Career development" (Call identifier: PEOPLE-2007-2-1-IEF) to host A. Pandini
+: EU project ProtFlexPred (Proposal N° 220256) of the programme "Marie-Curie Intra-European Fellowships for Career development" (Call identifier: PEOPLE-2007-2-1-IEF) to host Dr. A. Pandini
 * 2007/2008
-: European Science Foundation grant of the programme "Frontiers in Functional Genomics" to host A. Pandini
+: European Science Foundation grant of the programme "Frontiers in Functional Genomics" to host Dr. A. Pandini
 * 2004
 : JSPS Invitation Fellowship (6 weeks) for collaborative research at the Global Scientific Information and Computing Center (GSIC), Tokyo with Dr. M. Ota; GRID application of fast protein folding simulations
 * 1995-1997
