@@ -102,5 +102,5 @@ jens.kleinjung@crick.ac.uk
 * [on Google Scholar](https://scholar.google.co.uk/citations?user=ZIZ075AAAAAJ&hl=en)
 
 ## Programs & Servers
-[on GitHub](https://jkleinj.github.io/)
+* [on GitHub](https://jkleinj.github.io/)
 
