@@ -27,9 +27,9 @@ jens.kleinjung@crick.ac.uk
 * 12.1996-11.1997
 : Postdoctoral Research Fellow, LCPM-CNRS, Nancy, France
 * 04.1996-11.1996
-: Research assistant, RWTH University Aachen, Germany
+: Research assistant, RWTH Aachen University, Germany
 * 10.04.1996
-: Dr. rer. nat. (PhD Chemistry), RWTH University Aachen, Germany
+: Dr. rer. nat. (PhD Chemistry), RWTH Aachen University, Germany
 * 01.10.1992-01.04.1996
 : PhD thesis (Chemistry) 'Insulin-receptor interactions', RWTH Aachen University, Germany
 * 01.01.1992-30.06.1992
