@@ -7,7 +7,7 @@ jens.kleinjung@crick.ac.uk
 ```
 [GitHub page](https://jkleinj.github.io/)
 
-# Scientific Expertise
+## Scientific Expertise
 * protein sequence and structure analysis
 * transcriptomics data analysis
 * discrete state models
@@ -15,7 +15,7 @@ jens.kleinjung@crick.ac.uk
 * allostery
 * molecular interaction networks
 
-# Professional Vita
+## Professional Vita
 * since 04.2015
 : Senior Investigator Scientist, The Francis Crick Institute, London, U.K.
 * 10.2005-03.2015
@@ -37,7 +37,7 @@ jens.kleinjung@crick.ac.uk
 * 08.1985-12.1991
 : Studies in chemistry and biology, Aachen University, Germany
 
-# Awards & Grants
+## Awards & Grants
 * 2010/2012
 : EMBO long-term fellowship (ALTF 651-2009) to host Dr. J. Baussand
 * 2008/2009
@@ -53,7 +53,7 @@ jens.kleinjung@crick.ac.uk
 * 1992-1995
 : PhD stipend (4 years) of the Land Nordrhine Westphalia for outstanding students
 
-# Talks & Lectures
+## Talks & Lectures
 * 11.03.2014
 : Crick Symposium on Quantitative Biology; 'Signal Transduction in Protein Structures'
 * 20.11.2013
@@ -93,12 +93,12 @@ jens.kleinjung@crick.ac.uk
 * 02.2001
 : BBSRC Bioinformatics Grantholders' Workshop, Hinxton, U.K.;	'Quest: Iterative Sequence Searching'
 
-# Other Professional Activities
+## Other Professional Activities
 * Academic editor of Scientific Reports
 * Academic editor of PLoS ONE
 * Reviewer for various research funding organisations
 
-# Publications
+## Publications
 * [ORCID](https://orcid.org/0000-0002-7875-5724)
 * [Google Scholar](https://scholar.google.co.uk/citations?user=ZIZ075AAAAAJ&hl=en)
 
