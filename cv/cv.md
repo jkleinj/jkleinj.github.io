@@ -99,5 +99,6 @@ jens.kleinjung@crick.ac.uk
 * Reviewer for various research funding organisations
 
 # Publications
-[ORCID 0000-0002-7875-5724](https://orcid.org/0000-0002-7875-5724)
+[ORCID](https://orcid.org/0000-0002-7875-5724)
+[Google Scholar](https://scholar.google.co.uk/citations?user=ZIZ075AAAAAJ&hl=en)
 
