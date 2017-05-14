@@ -5,7 +5,6 @@ Computational Molecular Science
 The Francis Crick Institute
 jens.kleinjung@crick.ac.uk
 ```
-[GitHub page](https://jkleinj.github.io/)
 
 ## Scientific Expertise
 * protein sequence and structure analysis
@@ -101,4 +100,7 @@ jens.kleinjung@crick.ac.uk
 ## Publications
 * [ORCID](https://orcid.org/0000-0002-7875-5724)
 * [Google Scholar](https://scholar.google.co.uk/citations?user=ZIZ075AAAAAJ&hl=en)
+
+## Programs & Servers
+[GitHub page](https://jkleinj.github.io/)
 
