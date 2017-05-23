@@ -4,7 +4,6 @@ Dr. Jens Kleinjung
 Computational Biology and Chemistry
 The Francis Crick Institute
 jens.kleinjung@crick.ac.uk
-07707467523
 ```
 
 ## Professional Vita
