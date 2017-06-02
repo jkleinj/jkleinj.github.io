@@ -44,9 +44,11 @@ jens.kleinjung@crick.ac.uk
 * 1992-1995
 : PhD stipend (4 years) of the Land Nordrhine Westphalia for outstanding students
 
-## Talks & Lectures & Conferences
+## Talks, Lectures & Conferences
 * 02.06.2017
 : Keystone Conference 'Single Cell Omics', Stockholm, Sweden; 'Creating a transcriptomics landscape of the Enteric Nervous System'
+* 08.07.2016
+: ISMB Conference, Orlando, U.S.A.; 'Implicit Solvent Parametrisation by Force Matching'
 * 11.03.2014
 : Crick Symposium on Quantitative Biology; 'Signal Transduction in Protein Structures'
 * 20.11.2013
