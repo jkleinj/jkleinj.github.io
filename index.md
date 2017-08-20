@@ -20,8 +20,8 @@ title: Jens Kleinjung
 
 ## Talks and Lectures
 * [Bioinformatics Lectures](https://github.com/jkleinj/Bioinformatics_lectures)
-* [Poster about sc-RNASeq Analysis](https://github.com/jkleinj/Latex_poster_2017_Prague)
-* [Poster about Force Matching](https://github.com/jkleinj/Latex_poster_2016_Orlando)
+* [Poster about sc-RNASeq Analysis](https://github.com/jkleinj/Latex_poster_ISMB_2017_Prague)
+* [Poster about Force Matching](https://github.com/jkleinj/Latex_poster_ISMB_2016_Orlando)
 
 ## Molecular Models and Data
 * [Actin filament models](https://github.com/jkleinj/AFMmodels)
