@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper about a photo-switchable pyruvate kinase"
-date: 2017-05-19
+date: 2017-09-07
 ---
 
 Our paper "An engineered photoswitchable mammalian pyruvate
