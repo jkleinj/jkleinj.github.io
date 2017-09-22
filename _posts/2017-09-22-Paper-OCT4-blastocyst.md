@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Paper about CRIPR/Cas9-mediated targetting of OCT4"
 date: 2017-09-22
 ---
 
