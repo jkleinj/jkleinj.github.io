@@ -1,9 +1,7 @@
 # CV Jens Kleinjung
 ```
 Dr. Jens Kleinjung
-Computational Biology and Chemistry
-The Francis Crick Institute
-jens.kleinjung@crick.ac.uk
+jens@jkleinj.eu
 ```
 
 ## Professional Vita
