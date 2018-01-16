@@ -90,8 +90,6 @@ jens@jkleinj.eu
 
 ## Other Professional Activities
 * Member of the International Society for Computational Biology
-* Academic editor of Scientific Reports
-* Academic editor of PLoS ONE
 * Reviewer for various research funding organisations
 
 ## Programs & Servers
