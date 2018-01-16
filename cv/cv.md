@@ -7,7 +7,9 @@ jens.kleinjung@crick.ac.uk
 ```
 
 ## Professional Vita
-* since 04.2015
+* since 01.2018
+: Bioinformatician at Heptares Therapeutics, U.K.
+* 04.2015-12.2017
 : Bioinformatics Officer, The Francis Crick Institute, London, U.K.
 * 10.2005-03.2015
 : Senior Investigator Scientist, Division of Mathematical Biology, National Institute for Medical Research, London, U.K.
