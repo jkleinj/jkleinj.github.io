@@ -11,3 +11,4 @@ title: Jens Kleinjung's Publications
 
 ## [Google Scholar](https://scholar.google.co.uk/citations?user=ZIZ075AAAAAJ&hl=en)
 
+## [PubMed](https://www.ncbi.nlm.nih.gov/sites/myncbi/1REtd0_NWY05n/bibliography/54157216/public/?sort=date&direction=ascending)
