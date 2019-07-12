@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Paper about allosteric ligand effects in PKM2"
 date: 2019-06-12
@@ -7,7 +7,7 @@ date: 2019-06-12
 Our paper "Functional cross-talk between allosteric effects of activating and inhibiting ligands underlies PKM2 regulation"
 has been released:
 [eLife e45068](https://dx.doi.org/10.7554/eLife.45068).
-This work is a tour de force of PKM2 (pyruvate kinase M2) biophysics by the lead author Jamie Macpherson,
+This work is a tour de force of PKM2 (pyruvate kinase M2) biophysics (kudos to the lead author Jamie Macpherson),
 yielding several strong conclusions about the physiological role of its allosteric ligands.
 
 1. The allosteric ligand fructose-1,6-bipphosphate (FBP) is a strong binder and its cellular concentration
