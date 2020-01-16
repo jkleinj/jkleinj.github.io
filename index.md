@@ -11,6 +11,7 @@ Previously separate programs POPS (single proteins) and POPSCOMP (complexes) are
 in the program suite POPScomp; code will be released in 2020.
 The POPScomp server is available here:
 * [popscomp.org](http://popscomp.org:3838)
+
 Currently only the POPS functionality is available, the POPSCOMP functionality will be added by mid 2020.
 
 POPScomp is part of the FunPDBe project and precomputed POPScomp output can be downloaded via the REST API:
