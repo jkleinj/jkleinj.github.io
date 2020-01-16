@@ -6,13 +6,19 @@ title: Jens Kleinjung
 # Jens Kleinjung's Incomplete Collection of Scientific Material
 
 ## Programs and Servers
-### POPS : Analysis of solvent-accessible surface area (SASA) in biomolecular complexes
-* [POPS Code](https://github.com/Fraternalilab/POPS)
-* [POPS Server](https://mathbio.crick.ac.uk/wiki/POPS)
+### POPScomp
+Previously separate programs POPS (single proteins) and POPSCOMP (complexes) are about to be unified
+in the program suite POPScomp; code will be released in 2020.
+The POPScomp server is available here:
+* [popscomp.org](http://popscomp.org:3838)
+Currently only the POPS functionality is available, the POPSCOMP functionality will be added by mid 2020.
 
-### POPSCOMP : Analysis of SASA in biomolecular complexes
-* [POPSCOMP Code](https://github.com/Fraternalilab/POPSCOMP)
-* [POPSCOMP Server](https://mathbio.crick.ac.uk/wiki/POPSCOMP)
+POPScomp is part of the FunPDBe project and precomputed POPScomp output can be downloaded via the REST API:
+* [FunPDBe](https://www.ebi.ac.uk/pdbe/funpdbe/)
+
+### Legacy POPS and POPSCOMP Code
+* [POPS Code](https://github.com/Fraternalilab/POPSlegacy)
+* [POPSCOMP Code](https://github.com/Fraternalilab/POPSCOMPlegacy)
 
 ### GSAtools : Detection of allosteric signal transmission in Molecular Simulations 
 * [GSAtools](https://github.com/jkleinj/GSAtools)
