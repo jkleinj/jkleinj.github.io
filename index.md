@@ -12,14 +12,9 @@ The re-designed program to compute biomolecular surfaces has been released at
 The POPScomp server is available here:
 * [popscomp.org](http://popscomp.org:3838)
 
-Currently only the POPS functionality is available, the POPSCOMP functionality will be added by mid 2020.
-
-POPScomp is part of the FunPDBe project and precomputed POPScomp output can be downloaded via the REST API:
+POPScomp is part of the FunPDBe project and precomputed POPScomp output of the PDBML database
+can be downloaded via the REST API:
 * [FunPDBe](https://www.ebi.ac.uk/pdbe/funpdbe/)
-
-### Legacy POPS and POPSCOMP Code
-* [POPS Code](https://github.com/Fraternalilab/POPSlegacy)
-* [POPSCOMP Code](https://github.com/Fraternalilab/POPSCOMPlegacy)
 
 ### GSAtools : Detection of allosteric signal transmission in Molecular Simulations 
 * [GSAtools](https://github.com/jkleinj/GSAtools)
