@@ -7,8 +7,8 @@ title: Jens Kleinjung
 
 ## Programs and Servers
 ### POPScomp
-Previously separate programs POPS (single proteins) and POPSCOMP (complexes) are about to be unified
-in the program suite POPScomp; code will be released in 2020.
+The re-designed program to compute biomolecular surfaces has been released at
+[GitHub POPScomp](https://github.com/Fraternalilab/POPScomp).
 The POPScomp server is available here:
 * [popscomp.org](http://popscomp.org:3838)
 
