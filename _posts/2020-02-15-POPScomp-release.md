@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test"
+title: "POPcomp server released"
 date: 2020-02-15
 ---
 We have re-worked the original programs/servers POPS and POPSCOMP.
