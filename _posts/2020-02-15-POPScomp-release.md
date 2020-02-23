@@ -3,7 +3,6 @@ layout: post
 title: "test"
 date: 2020-02-15
 ---
-
 We have re-worked the original programs/servers POPS and POPSCOMP.
 The new program POPScomp unifies the two methods.
 The code base hase been released at [GitHub POPScomp](https://github.com/Fraternalilab/POPScomp).
