@@ -93,7 +93,7 @@ jens@jkleinj.eu
 * Reviewer for various research funding organisations
 
 ## Programs & Servers
-* [POPScomp](popscomp.org:3838)
+* [POPScomp](http://popscomp.org:3838)
 * [more on GitHub](https://github.com/jkleinj)
 
 ## Publications
