@@ -93,9 +93,8 @@ jens@jkleinj.eu
 * Reviewer for various research funding organisations
 
 ## Programs & Servers
-* [POPS](https://mathbio.crick.ac.uk/wiki/POPS)
-* [POPSCOMP](https://mathbio.crick.ac.uk/wiki/POPSCOMP)
-* [more on GitHub](https://jkleinj.github.io/)
+* [POPScomp](popscomp.org:3838)
+* [more on GitHub](https://github.com/jkleinj)
 
 ## Publications
 * [on ORCID](https://orcid.org/0000-0002-7875-5724)
