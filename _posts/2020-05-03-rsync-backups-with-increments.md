@@ -41,5 +41,10 @@ The log files keep an incremental record of the files that are being copied and 
 Alternatively (or additionally), one could create incremental 'backup-dir's
 with an added 'date' string, similar to the log files.
 
+What about previous versions of files that have been modified?
+Those files are usually text or code files and should be put under a version control system like 'git'.
+The git files are included in the 'rsync' backup and therefore the version history is going to
+be preserved along with the files themselves.
+
 Happy rsyncing!
 
