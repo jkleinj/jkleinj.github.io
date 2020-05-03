@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rsync backups with increments"
-date: 2020-05-053
+date: 2020-05-03
 ---
 
 The 'rsync' program is in my view the most efficient and robust tool for data backups,
