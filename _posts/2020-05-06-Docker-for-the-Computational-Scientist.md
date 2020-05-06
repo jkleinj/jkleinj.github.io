@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Docker for the Computational Scientist"
-date: 2020-05-03
+date: 2020-05-06
 ---
 
 Software technology changes at a very fast pace and computational scientists
