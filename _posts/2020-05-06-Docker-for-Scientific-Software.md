@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Docker for the Computational Scientist"
+date: 2020-05-03
+---
+
 Software technology changes at a very fast pace and computational scientists
 profit greatly from the availability of open source platforms, code libraries,
 public data banks and servers.
