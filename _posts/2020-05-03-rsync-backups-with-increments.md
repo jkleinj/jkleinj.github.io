@@ -40,9 +40,11 @@ Step by step:
       to the target path (user@192.168.1.185:/volume1/user_remote/rsync_laptop_user/),
       which is here a remote server on the local network.
 
-The log files keep an incremental record of the files that are being copied and deleted.
-Alternatively (or additionally), one could create incremental 'backup-dir's
-with an added 'date' string, similar to the log files.
+Although this backup routne uses only one directory to store the files deleted from the backup,
+the dated log files keep an incremental record of all the changes and we can use those logs to
+recover files in a controled way if needed.
+Alternatively (or additionally), one could create incremental 'backup-dir's with an added 'date' string,
+similar to the log files.
 
 This backup option with incremental files works for deleted files.
 What about files that have not been deleted but modified, for which we might want to access older versions?
