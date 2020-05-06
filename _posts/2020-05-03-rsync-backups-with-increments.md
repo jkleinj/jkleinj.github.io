@@ -34,7 +34,7 @@ Step by step:
 - \-e 'ssh -p 55443' --timeout=120 : Use ssh encryption over port 54321 and a long timeout threshold of 120 seconds.
 - \-\-exclude=.cache ... : Directories excluded from 'rsync' copy operations.
 - \-\-log-file=$HOME/... : Output directory for the verbose log text. The 'date' command adds the current date and hour
-      to the output file name. The backslash in the format file (\%) is needed for execution in 'cron',
+      to the output file name. The backslash in the format file (\\%) is needed for execution in 'cron',
       but not required on the terminal shell.
 - /home/user/ user@192.168.1.185:... : The actual copy instruction from the source (/home/user/)
       to the target path (user@192.168.1.185:/volume1/user_remote/rsync_laptop_user/),
