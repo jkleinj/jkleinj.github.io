@@ -32,7 +32,8 @@ by creating a Docker file.
 
 There are many detailed descriptions how to do the above online.
 Here I will just sketch the way I created a software package runnning a Shiny App to illustrate the process
-in a few lines. To use Docker one needs to learn few commands and the learning curve is steep.
-The Docker Hub is free to use for public images the same way GitHub is free for publis software repositories.
+of adding software to an existing Docker image in a few lines.
+To use Docker one needs to learn few commands and the learning curve is steep.
+Distributing Docker images is also easy: The Docker Hub is free to use for public images the same way GitHub is free for public software repositories.
 
 
