@@ -12,11 +12,11 @@ because of the ease with which prototypes, publishable data and graphics can be 
 
 For CPU/GPU intensive work, compiled binaries from low-level languages like C have
 still the edge in terms of speed and memory load. Mixed high&low-level implementations
-are not therefore not uncommon. The latter may however lead to a tricky situation when it comes to
+are therefore not uncommon. The latter may however lead to a tricky situation when it comes to
 program dissemination. A computational scientist interested in a particular program most likely
 needs to install various software packages, often accompanied with specifc version requirements
-and sometimes poor backward compatibility. I guess almost every computational scientist has given up
-on a software installation at one point in time because of compatibility problems.
+and sometimes poor backward compatibility. I guess almost every computational scientist has struggled
+with a software installation at least once because of compatibility problems.
 
 Docker is a great solution for this type of dilemma.
 A Docker image captures the essence of the computer environment of the program developer.
