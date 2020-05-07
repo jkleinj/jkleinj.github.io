@@ -27,8 +27,7 @@ An aditional bonus is that computational work becomes comparable between differe
 as long as all participants use the same docker image, which come with a version tag.
 
 Converting a software package into a Docker image is not difficult.
-There are fundamentally two possible ways: 1. By using an existing Docker image and adding software to it or
-2. by creating a Docker file.
+There are fundamentally two possible ways: 1. By using an existing Docker image and adding software to it or 2. by creating a Docker file.
 
 There are many detailed descriptions on the web about Docker image design.
 Here I will just sketch the way I created a software package to run our software *POPScomp* as a Shiny App (*via* method 1).
