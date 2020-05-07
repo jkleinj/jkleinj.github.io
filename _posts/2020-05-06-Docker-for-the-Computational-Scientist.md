@@ -14,7 +14,7 @@ For CPU/GPU intensive work, compiled binaries from low-level languages like C ha
 still the edge in terms of speed and memory load. Mixed high&low-level implementations
 are therefore not uncommon. The latter may however lead to a tricky situation when it comes to
 program dissemination. A computational scientist interested in a particular program most likely
-needs to install various software packages, often accompanied with specifc version requirements
+needs to install various software packages, often accompanied with specific version requirements
 and sometimes poor backward compatibility. I guess almost every computational scientist has struggled
 with a software installation at least once because of compatibility problems.
 
