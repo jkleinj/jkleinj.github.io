@@ -31,8 +31,8 @@ There are fundamentally two possible ways: 1. By using an existing Docker image 
 2. by creating a Docker file.
 
 There are many detailed descriptions on the web about Docker image design.
-Here I will just sketch the way I created a software package to run software on a Shiny App (via method 1).
+Here I will just sketch the way I created a software package to run our software *POPScomp* as a Shiny App (*via* method 1).
 To use Docker one needs to learn few commands and the learning curve is steep.
-Distributing Docker images is also easy: The Docker Hub is free to use for public images the same way GitHub is free for public software repositories.
+Distributing Docker images is also easy: The Docker Hub is free to use for public Docker images the same way GitHub is free for public software repositories.
 
 
