@@ -79,7 +79,7 @@ docker cp ~/mySoftware.tgz 911a29f6d77b:/root/mySoftware.tgz
 That way one can perform the usual software installations, including software updates on the operating system and the R environment, for example.
 
 ## Commit the Modified Container to a New Image
-After performing all the required modifications on the running container, the modified container is committed *via* its ID to a new image.
+After performing all the required modifications (software installations) on the running container, the modified container is committed *via* its ID to a new image.
 ```
 docker container commit 911a29f6d77b <owner>/<repository>:<x.y.z>
 ```
