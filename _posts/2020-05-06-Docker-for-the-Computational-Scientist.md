@@ -66,7 +66,7 @@ docker ps
 ```
 
 ## Modify the Docker Image
-The initialised container can be accessed like a virtual machine.
+The initialised container can be accessed like a virtual machine. Note that we use the container ID in those commands.
 For example, open a bash shell in the container:
 ```
 docker exec -it 911a29f6d77b bash
