@@ -54,7 +54,7 @@ docker images
 ```
 
 ## Initialise a Container
-Here we initialise a container via the image ID and specify a user ID, password and port for RStudio Shiny,
+Here we initialise a container *via* the image ID and specify a user ID, password and port for RStudio Shiny,
 which may be accessed in a browser under http://localhost:8787. Do not stop this process until the modified container has been committed, see below.
 ```
 docker run -e USERID=1000 -e PASSWORD=<myPassword> --rm -p 8787:8787  035af5ff999f
