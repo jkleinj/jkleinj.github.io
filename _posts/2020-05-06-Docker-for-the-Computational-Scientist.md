@@ -92,6 +92,6 @@ docker push <owner>/<repository>:<x.y.z>
 
 ## Summary
 We have created a Docker image containing our own software release in only 9 'docker' command lines.
-Docker Hub holds a wide range of base images to start with and other computational scientists will appreciate your software in an easily accessible and platform-agnostic release.
+Docker Hub holds a wide range of base images to start with and other computational scientists will appreciate your software in Docker images as easily accessible and platform-agnostic releases.
 
 
