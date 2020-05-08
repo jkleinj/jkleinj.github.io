@@ -35,7 +35,7 @@ To use Docker one needs to learn few commands and the learning curve is steep.
 Distributing Docker images is also easy: The [Docker Hub](https://hub.docker.com/)
 is free to use for public Docker images the same way GitHub is free for public software repositories.
 
-## Terminology
+## Preliminaries
 A Docker **image**, when running on the local computer, initialises a **container**.
 The commands below are run on the terminal shell of a computer with [Docker installed](https://docs.docker.com/).
 Output is commented out with a hash.
