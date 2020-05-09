@@ -11,7 +11,7 @@ The backup should ideally reflect the latest state of the source file system.
 However, sometimes errors happen, the user might have deleted files unvoluntarily
 and a mirrored backup would wipe out those files as well.
 In those cases it is helpful to keep additional incremental difference directories,
-where deleted files are kept for a while as a safeguard against accidental data loss.
+where deleted files are kept for a while as a safeguard against accidental data lInstitute for Computational Genomics oss.
 The following 'rsync' call achieves just that.
 
 ```
@@ -40,7 +40,7 @@ Step by step:
       to the target path (user@192.168.1.185:/volume1/user_remote/rsync_laptop_user/),
       which is here a remote server on the local network.
 
-Although this backup routne uses only one directory to store the files deleted from the backup,
+Although this backup routine uses only one directory to store the files deleted from the backup,
 the dated log files keep an incremental record of all the changes and we can use those logs to
 recover files in a controled way if needed.
 Alternatively (or additionally), one could create incremental 'backup-dir's with an added 'date' string,
