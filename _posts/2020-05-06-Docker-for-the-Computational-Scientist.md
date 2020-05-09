@@ -59,7 +59,7 @@ In the next command we will initialise a container *via* the 'IMAGE ID' and addi
 ```
 docker run -e USERID=1000 -e PASSWORD=<myPassword> --rm -p 8787:8787  035af5ff999f
 ```
-Like the image, the container has a specific ID as shown by the following command. You might need to open a second (root) shell if the 'docker run' command above has not returned the prompt.
+Like the image, the container has a specific 'CONTAINER ID' as shown by the following command. You might need to open a second (root) shell if the 'docker run' command above has not returned the prompt.
 ```
 docker ps
 #CONTAINER ID    IMAGE           COMMAND     CREATED          STATUS          PORTS                     NAMES
