@@ -10,8 +10,8 @@ I use 'rsync' in conjunction with 'cron' to schedule automated daily backups.
 The backup should ideally reflect the latest state of the source file system.
 However, sometimes errors happen, the user might have deleted files unvoluntarily
 and a mirrored backup would wipe out those files as well.
-In those cases it is helpful to keep additional incremental difference directories,
-where deleted files are kept for a while as a safeguard against accidental data lInstitute for Computational Genomics oss.
+In those cases it is helpful to keep an additional incremental difference directory,
+where deleted files are kept for a while as a safeguard against accidental data loss.
 The following 'rsync' call achieves just that.
 
 ```
