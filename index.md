@@ -31,6 +31,6 @@ can be downloaded via the REST API:
 
 ## Deep Learning Specialisation
 * [Convolutional Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ConvolutionalNeuralNetworks_Certificate.pdf)
-* [Improving Deep Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ImprovingDeepNeuralNetworks.pdf)
+* [Improving Deep Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ImprovingDeepNeuralNetworks_Certificate.pdf)
 * [NeuralNetworks DeepLearning Certificate](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/NeuralNetworks_DeepLearning_Certificate.pdf)
-* [Structuring Machine Learning Projects](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/StructuringMachineLearningProjects.pdf)
+* [Structuring Machine Learning Projects](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/StructuringMachineLearningProjects_Certificate.pdf)
