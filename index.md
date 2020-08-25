@@ -28,3 +28,9 @@ can be downloaded via the REST API:
 ## Molecular Models and Data
 * [Actin filament models](https://github.com/jkleinj/AFMmodels)
 * [Antibody antigen complex structure](http://www.rcsb.org/pdb/explore/explore.do?structureId=1f3r)
+
+## Deep Learning Specialisation
+* [Convolutional Neural Networks](https://github.com/jkleinj/jkleinj.github.io/docs/ConvolutionalNeuralNetworks_Certificate.pdf)
+* [Improving Deep Neural Networks](https://github.com/jkleinj/jkleinj.github.io/docs/ImprovingDeepNeuralNetworks.pdf)
+* [NeuralNetworks DeepLearning Certificate](https://github.com/jkleinj/jkleinj.github.io/docs/NeuralNetworks_DeepLearning_Certificate.pdf)
+* [Structuring Machine Learning Projects](https://github.com/jkleinj/jkleinj.github.io/docs/StructuringMachineLearningProjects.pdf)
