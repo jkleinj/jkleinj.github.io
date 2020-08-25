@@ -30,7 +30,7 @@ can be downloaded via the REST API:
 * [Antibody antigen complex structure](http://www.rcsb.org/pdb/explore/explore.do?structureId=1f3r)
 
 ## Deep Learning Specialisation
-* [Convolutional Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ConvolutionalNeuralNetworks_Certificate.pdf)
-* [Improving Deep Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ImprovingDeepNeuralNetworks_Certificate.pdf)
 * [NeuralNetworks DeepLearning Certificate](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/NeuralNetworks_DeepLearning_Certificate.pdf)
+* [Improving Deep Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ImprovingDeepNeuralNetworks_Certificate.pdf)
 * [Structuring Machine Learning Projects](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/StructuringMachineLearningProjects_Certificate.pdf)
+* [Convolutional Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ConvolutionalNeuralNetworks_Certificate.pdf)
