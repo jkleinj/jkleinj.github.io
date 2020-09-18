@@ -34,3 +34,5 @@ can be downloaded via the REST API:
 * [Improving Deep Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ImprovingDeepNeuralNetworks_Certificate.pdf)
 * [Structuring Machine Learning Projects](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/StructuringMachineLearningProjects_Certificate.pdf)
 * [Convolutional Neural Networks](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/ConvolutionalNeuralNetworks_Certificate.pdf)
+* [Sequence Models](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/SequenceModels_Certificate.pdf)
+* [Deep Learning Specialisation](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/DeepLearningSpecialisation_Certificate.pdf)
