@@ -29,5 +29,6 @@ can be downloaded via the REST API:
 * [Actin filament models](https://github.com/jkleinj/AFMmodels)
 * [Antibody antigen complex structure](http://www.rcsb.org/pdb/explore/explore.do?structureId=1f3r)
 
-## Certificate: Deep Learning Specialisation
-* [Deep Learning Specialisation](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/DeepLearningSpecialisation_Certificate.pdf)
+## Other Activities
+### Deep Learning Specialisation
+* [Certificate of Deep Learning Specialisation](https://github.com/jkleinj/jkleinj.github.io/blob/master/docs/DeepLearningSpecialisation_Certificate.pdf)
