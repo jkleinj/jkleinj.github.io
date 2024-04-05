@@ -6,7 +6,7 @@ jens@jkleinj.eu
 
 ## Professional Vita
 * since 01.2018
-: Bioinformatician at Sosei Heptares, Cambridge, U.K.
+: Bioinformatician at Nexera (formerly Sosei Heptares), Cambridge, U.K.
 * 04.2015-12.2017
 : Bioinformatics Officer, The Francis Crick Institute, London, U.K.
 * 10.2005-03.2015
